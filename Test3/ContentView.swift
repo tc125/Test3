@@ -18,6 +18,8 @@ struct ContentView: View {
             
             Text("LOADING")
                 .foregroundColor(.blue)
+            
+            Text("sdfdsfdsfdsfds")
         }
         .padding()
     }
